@@ -1,4 +1,9 @@
 /* место для вашего кода */
+body {
+    width: 1100px;
+    height: 3028px;
+}
+
 .header {
     display: grid;
     grid-template-columns: 1fr min-content 1fr;
@@ -29,7 +34,7 @@
     height: 105px;
 }
 
-.header-logo-image{
+.header-logo-image {
     width: 100%;
 }
 
@@ -39,7 +44,7 @@
     font-size: 18px;
     font-family: "Raleway", sans-serif;
     list-style-type: none;
-    font-style: normal; 
+    font-style: normal;
 }
 
 .address-list {
@@ -282,7 +287,7 @@
     height: 114px;
 }
 
-.about__text-text__up{
+.about__text-text__up {
     width: 688px;
     height: 120px;
     font-family: "Raleway", sans-serif;
@@ -349,7 +354,7 @@
     font-size: 18px;
     font-family: "Raleway", sans-serif;
     list-style-type: none;
-    font-style: normal; 
+    font-style: normal;
 }
 
 .footer__menu {
